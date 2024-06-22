@@ -1,10 +1,10 @@
 module.exports = {
-  title: "Nulite starter for Eleventy",
-  shortTitle: "Nulite starter 💊",
+  title: "The personal website of Rory Lawless",
+  shortTitle: "Rory Lawless",
   description:
-    "A beautiful and elegant blog theme starter project por Eleventy",
-  url: "https://example.com/",
+    "The personal website of Rory Lawless",
+  url: "https://RoryLawless.github.io/",
   author: {
-    name: "Your Name Here",
+    name: "Rory Lawless",
   },
 };
