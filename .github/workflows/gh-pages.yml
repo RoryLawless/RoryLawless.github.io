@@ -43,6 +43,9 @@ jobs:
 
       - name: Upload
         uses: actions/upload-artifact@v3
+        with:
+          name: site
+          path: _site/
 
   deploy:
     environment: github-pages
