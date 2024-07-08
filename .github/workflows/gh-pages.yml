@@ -42,7 +42,7 @@ jobs:
       - run: npm run build-ghpages
 
       - name: Upload
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: site
           path: _site/
